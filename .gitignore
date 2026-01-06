@@ -1,0 +1,31 @@
+# Xcode
+DerivedData/
+build/
+
+# User settings
+xcuserdata/
+
+# SwiftPM
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/
+
+# SPM Artifacts
+Artifacts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Misc
+*.swp
+*.lock
+*.DS_Store
