@@ -309,5 +309,5 @@ RickAndMorty
 
 ## 👤 Author
 
-**Henry Bautista – Sr iOS Dev**  
+**Henry Bautista – Sr iOS Engineer**  
 Developed as part of a technical take-home assignment.
