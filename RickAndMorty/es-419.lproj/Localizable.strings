@@ -1,0 +1,24 @@
+load_title = "Cargando personajes…";
+list_title = "Personajes";
+search_placeholder = "Buscar…";
+detail_title = "Ficha personaje";
+retry = "Reintentar";
+no_result = "No hay resultados";
+load = "Cargando …";
+origin = "Origen: ";
+location = "Ubicación: ";
+episode = "Episodio Número: ";
+all = "Todos";
+alive = "Vivo";
+dead = "Muerto";
+unknown = "Desconocido";
+human = "Humano";
+alien = "Extraterrestre";
+male = "Varón";
+female = "Hembra";
+status = "Estado: ";
+specie = "Especie: ";
+gender = "Género: ";
+failed = "Fallido!";
+error_detail = "Error cargando ficha";
+
