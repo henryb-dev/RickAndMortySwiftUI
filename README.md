@@ -1,4 +1,4 @@
-# RickAndMortySwiftUI  
+# RickAndMortySwiftUI - MultiverseKIS
 A production-style SwiftUI feature built using the Rick and Morty public REST API.
 
 This project implements a complete character browsing experience including listing, searching, filtering, pagination, and a detailed character screen.  
